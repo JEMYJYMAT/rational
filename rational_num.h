@@ -1,4 +1,6 @@
 //rational header file 
+#ifndef rational_header
+#define raional_header
 
 using namespace std;
 #include <iostream>
@@ -22,4 +24,4 @@ public:
 
 
 };
-
+#endif rational_header
