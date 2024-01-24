@@ -1,4 +1,9 @@
-//rational number main file
+/*
+ * RationalNumber.main file cpp
+ *
+ *  Created on: Dec 20, 2023
+ *      Author: Ahmed
+ */
 using namespace std;
 #include <iostream>
 #include "rational_num.h"
