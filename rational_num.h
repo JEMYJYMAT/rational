@@ -1,4 +1,10 @@
-//rational header file 
+/*
+ * RationalNumber.h
+ *
+ *  Created on: Dec 20, 2023
+ *      Author: Ahmed
+ */
+
 #ifndef rational_header
 #define raional_header
 
