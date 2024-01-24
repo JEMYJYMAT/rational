@@ -8,7 +8,7 @@ using namespace std;
 class rational_num
 { private:
 	int numirator;
-	int donominator;
+	int denominator;
 public:
 	rational_num();
 	rational_num(int n,int d);
