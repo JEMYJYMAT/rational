@@ -22,8 +22,8 @@ rational_num::rational_num(int n)
 rational_num rational_num::operator+(rational_num r)
 {
 	rational_num sum;
-	sum.numirator = r.denominator * numirator + r.numirator * donominator;
-	sum.denominator = donominator * r.denominator;
+	sum.numirator = r.denominator * numirator + r.numirator * denominator;
+	sum.denominator = denominator * r.denominator;
 	return sum;
 }
 
