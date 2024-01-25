@@ -1,0 +1,31 @@
+/*
+ * RationalNumber main file
+ *
+ *  Created on: Dec 20, 2023
+ *      Author: Ahmed
+ */
+using namespace std;
+#include <iostream>
+#include "rational_num.h"
+
+int main()
+{   
+	rational_num num1(3, 7);
+
+	rational_num num2(2, 9);
+
+	rational_num num3 = num1 + 5 + 10;
+	rational_num sum = num2 + num3 - rational_num(1, 2);
+	cout << sum;
+	rational_num mul = rational_num(10) * 5;
+	cout << mul;
+	--mul;
+	cout << mul;
+
+
+
+
+
+
+}
+
